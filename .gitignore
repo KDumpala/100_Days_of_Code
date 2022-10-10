@@ -1,0 +1,344 @@
+add device to yaml/209593393
+add device to yaml/211319040
+Bugs/ProdAccessExpiration/199661359-cloudcam
+Bugs/ProdAccessExpiration/199661668-cloudcam
+Bugs/ProdAccessExpiration/199760333-cloudcam
+Bugs/ProdAccessExpiration/199928393-cloudcam
+IoT-Tickets/Device Enrollment/-bos_delta_device-Enrollment
+IoT-Tickets/Device Enrollment/-bos_mgt-Enrollment-test
+IoT-Tickets/Device Enrollment/207706778-pwrstrge-Enrollment
+IoT-Tickets/Device Enrollment/207918840-bos_sauter_eygt-Enrollment
+IoT-Tickets/Device Enrollment/208033369-bos_sauter_eygt-Enrollment
+IoT-Tickets/Device Enrollment/208487667-bos_schneider-Enrollment
+IoT-Tickets/Device Enrollment/208498424-pwrstrge-Enrollment
+IoT-Tickets/Device Enrollment/209375882-bos_sauter_eygt-Enrollment
+IoT-Tickets/Device Enrollment/209829687-bos_vendor_device-Enrollment
+IoT-Tickets/Device Enrollment/209997835-bos_Enrollment
+IoT-Tickets/Device Enrollment/210233893-bos_dialog_smartserveriot
+IoT-Tickets/Device Enrollment/210234465-bos_danfoss_fc102
+IoT-Tickets/Device Enrollment/210234650-bos_dialog_smartserveriot
+IoT-Tickets/Device Enrollment/210292305-bos_vendor_device-Enrollment
+IoT-Tickets/Device Enrollment/211165420-bos-easyio-Enrollment
+IoT-Tickets/Device Enrollment/211175039-bos_Enrollment
+IoT-Tickets/Device Enrollment/212324580-bos_mgt-Enrollment
+IoT-Tickets/Device Enrollment/212634181-bos-distech
+IoT-Tickets/Device Enrollment/212665173-bos_vendor_device-Enrollment
+IoT-Tickets/Device Enrollment/212890306-bos_vendor_device-Enrollment
+IoT-Tickets/Device Enrollment/213102903-bos_Enrollment
+IoT-Tickets/Device Enrollment/213162326-bos_delta_device-Enrollment-copy
+IoT-Tickets/Device Enrollment/213222291-Bos-Distech
+IoT-Tickets/Device Enrollment/213253205-bos_easyios-Enrollment
+IoT-Tickets/Device Enrollment/213494143-bos_vendor_device-Enrollment
+IoT-Tickets/Device Enrollment/213506947-bos_Enrollment
+IoT-Tickets/Device Enrollment/213523404-bos_Enrollment
+IoT-Tickets/Device Enrollment/213603142-bos_Enrollment
+IoT-Tickets/Device Enrollment/213826105-bos_hp_miniEnrollment
+IoT-Tickets/Device Enrollment/213961919-Bos-Distech
+IoT-Tickets/Device Enrollment/213997923-BOS-hea-enrolment
+IoT-Tickets/Device Enrollment/213998380-bos_Enrollment
+IoT-Tickets/Device Enrollment/214196378-BOS-hea-enrolment
+IoT-Tickets/Device Enrollment/214256515-BOS-hea-enrolment
+IoT-Tickets/Device Enrollment/214358043-BOS-hea-enrolment
+IoT-Tickets/Device Enrollment/214450135-bos_vendor_device-Enrollment
+IoT-Tickets/Device Enrollment/enrollment-test
+IoT-Tickets/Host Deletion/213511959-details
+IoT-Tickets/Host Deletion/213511959-Host-Deletion
+IoT-Tickets/Host FQDN modify/214157621-Hostrename
+IoT-Tickets/Host MAC mofication/207882578-DRAC-Mac-Modify
+IoT-Tickets/Host MAC mofication/207949972-CloudCams-Mac-Modify
+IoT-Tickets/Host MAC mofication/210935457-bos_danfoss_fc102
+IoT-Tickets/Host MAC mofication/212167330-CloudCams-Mac-Modify
+IoT-Tickets/Host MAC mofication/213162326-bos_danfoss_fc102
+IoT-Tickets/Host MAC mofication/213442551_Bos_gam_MAC
+IoT-Tickets/Host MAC mofication/213752994-bos_schneider_asp
+IoT-Tickets/Host MAC mofication/MAC Modify
+Tickets/Device Enrollment/205884086-CloudCam-Enrollment
+Tickets/Device Enrollment/205884138-CloudCam-Enrollment
+Tickets/Device Enrollment/205912859-arc-Enrollment
+Tickets/Device Enrollment/205913000-arc-Enrollment
+Tickets/Device Enrollment/205954510-Istar-Enrollment
+Tickets/Device Enrollment/205977197-Istar-Enrollment
+Tickets/Device Enrollment/205991212-Istar-Enrollment
+Tickets/Device Enrollment/205995279-Istar-Enrollment
+Tickets/Device Enrollment/206005582-Istar-Enrollment
+Tickets/Device Enrollment/206043823-CloudCam-Enrollment
+Tickets/Device Enrollment/206050164-arc-Enrollment
+Tickets/Device Enrollment/206074737-Istar-Enrollment
+Tickets/Device Enrollment/206211944-CloudCam-Enrollment
+Tickets/Device Enrollment/206225662-Istar-Traka-Enrollment
+Tickets/Device Enrollment/206293608-arc-Enrollment
+Tickets/Device Enrollment/206350893-traka-Enrollment
+Tickets/Device Enrollment/206416125-Istar-Enrollment
+Tickets/Device Enrollment/206449182-arc-Enrollment
+Tickets/Device Enrollment/206563850-Istar-Enrollment
+Tickets/Device Enrollment/206611564-CloudCam-Enrollment
+Tickets/Device Enrollment/206665742-Istar-Enrollment
+Tickets/Device Enrollment/206669044-MX-Enrollment
+Tickets/Device Enrollment/206669084-MX-Enrollment
+Tickets/Device Enrollment/206669535-MX-Enrollment
+Tickets/Device Enrollment/206671230-BMS-Enrollment
+Tickets/Device Enrollment/206758114-Istar-Enrollment
+Tickets/Device Enrollment/206758945-Istar-Enrollment
+Tickets/Device Enrollment/206776916-arc-Enrollment
+Tickets/Device Enrollment/206809142-LightGW-Enrollment
+Tickets/Device Enrollment/206811495-Istar-Enrollment
+Tickets/Device Enrollment/206817611-MX-Enrollment
+Tickets/Device Enrollment/206817873-MX-Enrollment
+Tickets/Device Enrollment/206818004-MX-Enrollment
+Tickets/Device Enrollment/206818196-MX-Enrollment
+Tickets/Device Enrollment/206821007-LightGW-Enrollment
+Tickets/Device Enrollment/206836313-Istar-Enrollment
+Tickets/Device Enrollment/206844403-UPS-Enrollment
+Tickets/Device Enrollment/206853749-MTV-BMS-Enrollment
+Tickets/Device Enrollment/206916428-Istar-Enrollment
+Tickets/Device Enrollment/206916972-CloudCam-Enrollment
+Tickets/Device Enrollment/206961751-Istar-Enrollment
+Tickets/Device Enrollment/207003303-UPS-Enrollment
+Tickets/Device Enrollment/207029771-Istar-Enrollment
+Tickets/Device Enrollment/207067574-CloudCam-Enrollment
+Tickets/Device Enrollment/207160510-Istar-Enrollment
+Tickets/Device Enrollment/207188944-icam-Enrollment
+Tickets/Device Enrollment/207217672-MX-Enrollment
+Tickets/Device Enrollment/207237353-MTV-BMS-Enrollment
+Tickets/Device Enrollment/207242277-traka-Enrollment
+Tickets/Device Enrollment/207296771-UPS-Enrollment
+Tickets/Device Enrollment/207321501-LightGW-Enrollment
+Tickets/Device Enrollment/207323257-CloudCam-Enrollment
+Tickets/Device Enrollment/207344085-CloudCam-Enrollment
+Tickets/Device Enrollment/207672570-CloudCam-Enrollment
+Tickets/Device Enrollment/207673589-CloudCam-Enrollment
+Tickets/Device Enrollment/207706778-pwrstrge-Enrollment
+Tickets/Device Enrollment/207711877-traka-Enrollment
+Tickets/Device Enrollment/207804246-Istar-Enrollment
+Tickets/Device Enrollment/208132617-Istar-Enrollment
+Tickets/Device Enrollment/208160109-MX-Enrollment
+Tickets/Device Enrollment/208160526-MX-Enrollment
+Tickets/Device Enrollment/208161711-UPS-Enrollment
+Tickets/Device Enrollment/208192130-arc-Enrollment
+Tickets/Device Enrollment/208219662-CloudCam-Enrollment
+Tickets/Device Enrollment/208286470-Istar-Enrollment
+Tickets/Device Enrollment/208288792-Istar-Enrollment
+Tickets/Device Enrollment/208372285-Istar-Enrollment
+Tickets/Device Enrollment/208391794-CloudCam-Enrollment
+Tickets/Device Enrollment/208479100-UPS-Enrollment
+Tickets/Device Enrollment/208515513-MX-Enrollment
+Tickets/Device Enrollment/208545542-CloudCam-Enrollment
+Tickets/Device Enrollment/208570956-Istar-Enrollment
+Tickets/Device Enrollment/208664094-Istar-Enrollment
+Tickets/Device Enrollment/208768960-Istar-Enrollment
+Tickets/Device Enrollment/208773319-Istar-Enrollment
+Tickets/Device Enrollment/208810621-LightGW-Enrollment
+Tickets/Device Enrollment/208976134-Istar-Traka-Enrollment
+Tickets/Device Enrollment/209153249-LightGW-Enrollment
+Tickets/Device Enrollment/209183691-CloudCam-Enrollment
+Tickets/Device Enrollment/209243473-CloudCam-Enrollment
+Tickets/Device Enrollment/209342247-UPS-Enrollment
+Tickets/Device Enrollment/210412493-CloudCam-Enrollment
+Tickets/Device Enrollment/210532007-arc-Enrollment
+Tickets/Device Enrollment/210565230-Istar-Enrollment
+Tickets/Device Enrollment/210570297-Istar-Enrollment
+Tickets/Device Enrollment/210598589-UPS-Enrollment
+Tickets/Device Enrollment/210674574-Istar-Enrollment
+Tickets/Device Enrollment/210674988-Istar-Enrollment
+Tickets/Device Enrollment/210875357-Istar-Enrollment
+Tickets/Device Enrollment/210936055-Istar-Enrollment
+Tickets/Device Enrollment/210968993-mx-Enrollment
+Tickets/Device Enrollment/210969387-arc-Enrollment
+Tickets/Device Enrollment/210973290-mx-Enrollment
+Tickets/Device Enrollment/211633482-Istar-Enrollment
+Tickets/Device Enrollment/211733802-Istar-Enrollment
+Tickets/Device Enrollment/211733802-Istar-offcorp-Enrollment
+Tickets/Device Enrollment/211733802-Istar-offcorp-Enrollment-copy
+Tickets/Device Enrollment/211836238-traka-Enrollment
+Tickets/Device Enrollment/211976015-Istar-Enrollment
+Tickets/Device Enrollment/212019247-arc-Enrollment
+Tickets/Device Enrollment/212261827-traka-Enrollment
+Tickets/Device Enrollment/212491411-arc-Enrollment
+Tickets/Device Enrollment/212577396-arc-Enrollment
+Tickets/Device Enrollment/212745434-arc-Enrollment
+Tickets/Device Enrollment/212752288-arc-Enrollment
+Tickets/Device Enrollment/212754942-arc-Enrollment
+Tickets/Device Enrollment/212781870-CloudCam-Enrollment
+Tickets/Device Enrollment/212813352-Istar-Enrollment
+Tickets/Device Enrollment/212878642-Istar-Enrollment
+Tickets/Device Enrollment/212933190-Istar-Enrollment
+Tickets/Device Enrollment/212968870-Istar-Enrollment
+Tickets/Device Enrollment/213058509-mx-Enrollment
+Tickets/Device Enrollment/213168415-Istar-Enrollment
+Tickets/Device Enrollment/213235269-UPS-Enrollment
+Tickets/Device Enrollment/213243226-CloudCam-Enrollment
+Tickets/Device Enrollment/213283280-Istar-Enrollment
+Tickets/Device Enrollment/213313105-UPS-Enrollment
+Tickets/Device Enrollment/213320444-arc-Enrollment
+Tickets/Device Enrollment/213354324-arc-Enrollment
+Tickets/Device Enrollment/213509721-LightGW-Enrollment
+Tickets/Device Enrollment/213574048-CloudCam-Enrollment
+Tickets/Device Enrollment/213603142-CloudCam-Enrollment
+Tickets/Device Enrollment/213753502-arc-Enrollment
+Tickets/Device Enrollment/213940838-arc-Enrollment
+Tickets/Device Enrollment/213954460-arc-Enrollment
+Tickets/Device Enrollment/213955459-arc-Enrollment
+Tickets/Device Enrollment/213956040-arc-Enrollment
+Tickets/Device Enrollment/213996532-arc-Enrollment
+Tickets/Host Deletion/205760052-Host-Deletion
+Tickets/Host Deletion/206031291-Host-Deletion
+Tickets/Host Deletion/206339734-Host-Deletion
+Tickets/Host Deletion/206351749-Host-Deletion
+Tickets/Host Deletion/206625866-Host-Deletion
+Tickets/Host Deletion/206636860-Host-Deletion
+Tickets/Host Deletion/206665790-Host-Deletion
+Tickets/Host Deletion/206669733-Host-Deletion
+Tickets/Host Deletion/206810938-Host-Deletion
+Tickets/Host Deletion/206810961-Host-Deletion
+Tickets/Host Deletion/206811097-Host-Deletion
+Tickets/Host Deletion/206811198-Host-Deletion
+Tickets/Host Deletion/206811211-Host-Deletion
+Tickets/Host Deletion/206811301-Host-Deletion
+Tickets/Host Deletion/206846016-Host-Deletion
+Tickets/Host Deletion/206963241-Host-Deletion
+Tickets/Host Deletion/206963362-Host-Deletion
+Tickets/Host Deletion/206963420-Host-Deletion
+Tickets/Host Deletion/206963457-Host-Deletion
+Tickets/Host Deletion/206963474-Host-Deletion
+Tickets/Host Deletion/206963573-Host-Deletion
+Tickets/Host Deletion/207019650-Host-Deletion
+Tickets/Host Deletion/207068487-Host-Deletion
+Tickets/Host Deletion/207117011-Host-Deletion
+Tickets/Host Deletion/207124817-Host-Deletion
+Tickets/Host Deletion/207259812-Host-Deletion
+Tickets/Host Deletion/207821671-Host-Deletion
+Tickets/Host Deletion/207821795-Host-Deletion
+Tickets/Host Deletion/207822003-Host-Deletion
+Tickets/Host Deletion/208182803-Host-Deletion
+Tickets/Host Deletion/208333972-Host-Deletion
+Tickets/Host Deletion/208544608-Host-Deletion
+Tickets/Host Deletion/208742047-Host-Deletion
+Tickets/Host Deletion/208749581-Host-Deletion
+Tickets/Host Deletion/208812362-Host-Deletion
+Tickets/Host Deletion/209093495-Host-Deletion
+Tickets/Host Deletion/211943251-Host-Deletion
+Tickets/Host Deletion/211980042-Host-Deletion
+Tickets/Host Deletion/212266386-Host-Deletion
+Tickets/Host Deletion/212266386a-Host-Deletion
+Tickets/Host Deletion/212267163-Host-Deletion
+Tickets/Host Deletion/212457982-Host-Deletion
+Tickets/Host Deletion/212467513-Host-Deletion
+Tickets/Host Deletion/212758229-Host-Deletion
+Tickets/Host Deletion/212759132-Host-Deletion
+Tickets/Host Deletion/212856364-Host-Deletion
+Tickets/Host Deletion/212922761-Host-Deletion
+Tickets/Host Deletion/212996811-Host-Deletion
+Tickets/Host Deletion/213490229-Host-Deletion
+Tickets/Host Deletion/213662103-Host-Deletion
+Tickets/Host Deletion/214058649-Host-Deletion
+Tickets/Host Deletion/commands
+Tickets/Host FQDN modify/205876976-Hostname-Modify
+Tickets/Host FQDN modify/206669095-Hostname-Modify
+Tickets/Host FQDN modify/209095984-Hostname-Modify
+Tickets/Host FQDN modify/210667507-Hostname-Modify
+Tickets/Host FQDN modify/211395598-Hostname-Modify
+Tickets/Host FQDN modify/213209517-Hostname-Modify
+Tickets/Host MAC mofication/205930733-Mac-Modify
+Tickets/Host MAC mofication/205952987-Mac-Modify
+Tickets/Host MAC mofication/205998050-Mac-Modify
+Tickets/Host MAC mofication/206001778-Mac-Modify
+Tickets/Host MAC mofication/206101616-Mac-Modify
+Tickets/Host MAC mofication/206101616-Mac-Modify-copy
+Tickets/Host MAC mofication/206381189-Mac-Modify
+Tickets/Host MAC mofication/206476422-Mac-Modify
+Tickets/Host MAC mofication/206478943-Mac-Modify
+Tickets/Host MAC mofication/206566872-Mac-Modify
+Tickets/Host MAC mofication/206571936-Mac-Modify
+Tickets/Host MAC mofication/206608188-Mac-Modify
+Tickets/Host MAC mofication/206634480-Mac-Modify
+Tickets/Host MAC mofication/206754631-Mac-Modify
+Tickets/Host MAC mofication/206789453-Mac-Modify
+Tickets/Host MAC mofication/206941489-Mac-Netblock-Modify
+Tickets/Host MAC mofication/206959497-Mac-Netblock-Modify
+Tickets/Host MAC mofication/206960566-Mac-Modify
+Tickets/Host MAC mofication/207027852-Mac-Modify
+Tickets/Host MAC mofication/207067739-1-Mac-Modify
+Tickets/Host MAC mofication/207067739-Mac-Modify
+Tickets/Host MAC mofication/207124729-Mac-Modify
+Tickets/Host MAC mofication/207176901-Mac-Modify
+Tickets/Host MAC mofication/207189335-Mac-Modify
+Tickets/Host MAC mofication/207212822-MX-Mac-Modify
+Tickets/Host MAC mofication/207263137-LightGW-Mac-Modify
+Tickets/Host MAC mofication/207291481-ISTAR-Mac-Modify
+Tickets/Host MAC mofication/207297066-ISTAR-Mac-Modify
+Tickets/Host MAC mofication/207297790-LightGW-Mac-Modify-
+Tickets/Host MAC mofication/207745606-Mac-Modify
+Tickets/Host MAC mofication/207770225-CloudCams-Mac-Modify
+Tickets/Host MAC mofication/207882578-DRAC-Mac-Modify
+Tickets/Host MAC mofication/207949972-CloudCams-Mac-Modify
+Tickets/Host MAC mofication/208100007-Mac-Modify
+Tickets/Host MAC mofication/208101980-Mac-Modify
+Tickets/Host MAC mofication/208255913-Mac-Modify
+Tickets/Host MAC mofication/208339823-Mac-Modify
+Tickets/Host MAC mofication/208401212-DRAC-Mac-Modify
+Tickets/Host MAC mofication/208565167-Mac-Modify
+Tickets/Host MAC mofication/209179964-Mac-Modify
+Tickets/Host MAC mofication/209237811-Mac-Modify
+Tickets/Host MAC mofication/209309541-LightGW-Mac-Modify
+Tickets/Host MAC mofication/210521644-Mac-Modify
+Tickets/Host MAC mofication/210739173-Mac-Modify
+Tickets/Host MAC mofication/210745189-Mac-Modify
+Tickets/Host MAC mofication/210781372-Mac-Modify
+Tickets/Host MAC mofication/210908573-Mac-Modify
+Tickets/Host MAC mofication/211981828-Mac-Modify
+Tickets/Host MAC mofication/212114792-Arc-DRAC-Mac-Modif
+Tickets/Host MAC mofication/212398052-Mac-Modify
+Tickets/Host MAC mofication/212430578-Mac-Modify
+Tickets/Host MAC mofication/212852753-Mac-Modify
+Tickets/Host MAC mofication/212929732-Mac-Modify
+Tickets/Host MAC mofication/213061035-Arc-DRAC-MAC
+Tickets/Host MAC mofication/213457168-ISTAR-Mac-Modify
+Tickets/Host MAC mofication/213655592-Mac-Modify
+Tickets/Host MAC mofication/213681094-ISTAR-Mac-Modify
+Tickets/Host MAC mofication/213963764-Arc-DRAC-Mac-Modif
+Tickets/Host MAC mofication/MAC Modify
+Tickets/Netblock modification/206132904-Netblock
+Tickets/Netblock modification/206612372-Netblock
+Tickets/Netblock modification/206756766-Arc-Netblock
+Tickets/Netblock modification/206869306-Arc-Netblock
+Tickets/Netblock modification/206879201-Netblock
+Tickets/Netblock modification/206940227-Netblock
+Tickets/Netblock modification/207318971-Netblock
+Tickets/Netblock modification/208007036-Netblock
+Tickets/Netblock modification/208104485-Netblock
+Tickets/Netblock modification/208312535-Netblock
+Tickets/Netblock modification/209205164-Netblock
+Tickets/Netblock modification/209350992-Netblock
+Tickets/Netblock modification/213031606-Netblock
+Tickets/Netblock modification/213452167-Netblock
+Tickets/Rigging/206100526-Rigging
+Tickets/Rigging/206124085-Rigging
+Tickets/Rigging/206293879-Rigging
+Tickets/Rigging/206635450-Rigging
+Tickets/Rigging/207156774-Rigging
+Tickets/Rigging/207234989-Rigging
+Tickets/Rigging/207937469-Rigging
+Tickets/Rigging/207954474-Rigging
+Tickets/Rigging/208007241-Rigging
+Tickets/Rigging/208899083-Rigging
+Tickets/Rigging/210537889-Rigging
+Tickets/Rigging/211188908-Rigging
+Tickets/Rigging/211325255-Rigging
+Tickets/Rigging/211771186-Rigging
+Tickets/Rigging/212048832-Rigging
+Tickets/Rigging/212295224-Rigging
+break mapping script
+CCURE_cert_generation
+cnc_show.log
+cnc_show.sh
+cnc.src
+commands
+Comments template
+destroy.log
+destroy.sh
+destroy.src
+haspolicy.py
+mapping script2
+radix add device
+rigging test script
+test
